@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="3" y="3" width="54" height="54" rx="14" fill="#000"/>
+  <rect x="1" y="1" width="54" height="54" rx="14" fill="#f77f96" stroke="#000" stroke-width="3"/>
+  <circle cx="45" cy="13" r="5" fill="#0cc6c1" stroke="#000" stroke-width="2.5"/>
+  <text x="28" y="39.5" text-anchor="middle" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="25" letter-spacing="-1" fill="#000">SG</text>
+</svg>
